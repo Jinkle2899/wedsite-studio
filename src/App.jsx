@@ -6,6 +6,7 @@ import FeaturesSection from './components/FeaturesSection'
 import PricingSection from './components/PricingSection'
 import Footer from './components/Footer'
 import SignatureCollection from './components/SignatureCollection'
+import ShowcaseSection from './components/ShowcaseSection'
 import TestimonialsSection from './components/TestimonialsSection'
 import BlushRomancePreview from './templates/blush-romance/Preview'
 import BlushRomanceEdit from './templates/blush-romance/Edit'
@@ -35,6 +36,7 @@ function HomePage() {
       <HeroSection />
       <TemplateGrid />
       <SignatureCollection />
+      <ShowcaseSection />
       <FeaturesSection />
       <TestimonialsSection />
       <PricingSection />
